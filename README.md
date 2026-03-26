@@ -113,10 +113,14 @@ VITE_FIREBASE_PROJECT_ID=your_project_id
 
 ## 👨‍💻 Author
 
-**Muhammad Ahmed**
+**Muhammad Ahmed (AhmedDevx07)**
+🚀 Full Stack MERN Developer
+🎨 Passionate about Modern UI/UX & Scalable Web Apps
 
-* 💼 MERN Stack Developer
-* 🌐 GitHub: https://github.com/AhmedDevx07
+### 🌐 Connect With Me
+
+* 🐙 GitHub: https://github.com/AhmedDevx07
+* 💼 LinkedIn: https://linkedin.com/in/ahmeddevx07
 
 ---
 
