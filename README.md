@@ -128,4 +128,4 @@ VITE_FIREBASE_PROJECT_ID=your_project_id
 
 If you like this project, give it a ⭐ on GitHub and share it with others!
 
----
+ 
